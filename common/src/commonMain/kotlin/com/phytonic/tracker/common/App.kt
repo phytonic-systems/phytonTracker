@@ -1,4 +1,4 @@
-package me.prannaya.common
+package com.phytonic.tracker.common
 import androidx.compose.material.Text
 import androidx.compose.material.Button
 import androidx.compose.material.MaterialTheme

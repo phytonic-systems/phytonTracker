@@ -4,7 +4,7 @@ plugins {
     kotlin("android")
 }
 
-group = "me.prannaya"
+group = "com.phytonic.tracker"
 version = "1.0"
 
 repositories {
@@ -19,7 +19,7 @@ dependencies {
 android {
     compileSdkVersion(29)
     defaultConfig {
-        applicationId = "me.prannaya.android"
+        applicationId = "com.phytonic.tracker.android"
         minSdkVersion(24)
         targetSdkVersion(29)
         versionCode = 1

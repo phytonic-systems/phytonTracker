@@ -1,6 +1,6 @@
 package com.phytonic.tracker.android
 
-import me.prannaya.common.App
+import com.phytonic.tracker.common.App
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.compose.setContent

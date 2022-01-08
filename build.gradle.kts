@@ -11,7 +11,7 @@ buildscript {
     }
 }
 
-group = "me.prannaya"
+group = "com.phytonic"
 version = "1.0"
 
 allprojects {

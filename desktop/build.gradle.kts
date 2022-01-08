@@ -6,7 +6,7 @@ plugins {
     id("org.jetbrains.compose") version "0.4.0"
 }
 
-group = "me.prannaya"
+group = "com.phytonic.tracker"
 version = "1.0"
 
 kotlin {

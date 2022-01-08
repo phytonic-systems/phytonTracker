@@ -7,7 +7,7 @@ plugins {
     id("kotlin-android-extensions")
 }
 
-group = "me.prannaya"
+group = "com.phytonic.tracker"
 version = "1.0"
 
 repositories {
